@@ -1,23 +1,25 @@
-[
-  {
-  "id": 1,
-  "name": "Miskolc",
-  "country": "Hungary",
-  "coorX": 50.03,
-  "coorY": 61.224
-  },
-  {
-  "id": 2,
-  "name": "Ózd",
-  "country": "Hungary",
-  "coorX": 53.9,
-  "coorY": 66.1
-  },
-  {
-  "id": 3,
-  "name": "York",
-  "country": "England",
-  "coorX": 70.23,
-  "coorY": 1.3456
-  }
-]
+{
+  "settlements": [
+    {
+    "id": 1,
+    "name": "Miskolc",
+    "country": "Hungary",
+    "coorX": 50.03,
+    "coorY": 61.224
+    },
+    {
+    "id": 2,
+    "name": "Ózd",
+    "country": "Hungary",
+    "coorX": 53.9,
+    "coorY": 66.1
+    },
+    {
+    "id": 3,
+    "name": "York",
+    "country": "England",
+    "coorX": 70.23,
+    "coorY": 1.3456
+    }
+  ]
+}
