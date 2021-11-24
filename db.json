@@ -5,21 +5,72 @@
     "name": "Miskolc",
     "country": "Hungary",
     "coorX": 50.03,
-    "coorY": 61.224
+    "coorY": 61.224,
+    "temperature": 1,
+    "weather": "rain"
     },
     {
     "id": 2,
     "name": "Ózd",
     "country": "Hungary",
     "coorX": 53.9,
-    "coorY": 66.1
+    "coorY": 66.1,
+    "temperature": 8,
+    "weather": "sunshine"
     },
     {
     "id": 3,
     "name": "York",
     "country": "England",
     "coorX": 70.23,
-    "coorY": 1.3456
+    "coorY": 1.3456,
+    "temperature": -12,
+    "weather": "clouds"
+    },
+    {
+    "id": 4,
+    "name": "Debrecen",
+    "country": "Hungary",
+    "coorX": 56.23,
+    "coorY": 44.3456,
+    "temperature": -2,
+    "weather": "clear"
+    },
+    {
+    "id": 5,
+    "name": "Chamacamber",
+    "country": "Russianna",
+    "coorX": 90.00,
+    "coorY": 180.00,
+    "temperature": -112,
+    "weather": "snow"
+    },
+    {
+    "id": 6,
+    "name": "Berlin",
+    "country": "Germany",
+    "coorX": 60.23,
+    "coorY": 12.56,
+    "temperature": 0,
+    "weather": "snow"
+    },
+    {
+    "id": 7,
+    "name": "Rome",
+    "country": "Italy",
+    "coorX": 40.12,
+    "coorY": 23.344,
+    "temperature": 14,
+    "weather": "rain"
+    },
+    {
+    "id": 8,
+    "name": "Tatabánya",
+    "country": "Hungary",
+    "coorX": 55.35,
+    "coorY": 60.00,
+    "temperature": -5,
+    "weather": "clear"
     }
   ],
   "profile": {
